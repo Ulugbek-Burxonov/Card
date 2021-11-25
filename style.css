@@ -41,7 +41,7 @@ body {
 @keyframes rotate {
   0% {
     transform: rotate(0deg);
-    background: linear-gradient(90deg, #ff003d 19%, #00d4ff 91%);
+    background: linear-gradient(180deg, #ff003d 56%, #00d4ff 44%);
     transition: 2s; }
   100% {
     transform: rotate(360deg);
