@@ -43,7 +43,7 @@ body{
     @keyframes rotate {
       0%{
         transform: rotate(0deg);
-        background: linear-gradient(90deg, rgba(255,0,61,1) 19%, rgba(0,212,255,1) 91%);
+        background: linear-gradient(180deg, rgba(255,0,61,1) 56%, rgba(0,212,255,1) 44%);
         transition: 2s;
       }
       100%{
